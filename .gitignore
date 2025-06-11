@@ -6,3 +6,6 @@ bin/*
 settings.json
 *.root
 tasks.json
+other_frameworks/*_cpp*
+other_frameworks/*.pyc
+
