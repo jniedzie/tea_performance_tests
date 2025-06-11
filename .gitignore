@@ -4,3 +4,5 @@ bin/*
 .__afs*
 
 settings.json
+*.root
+tasks.json
